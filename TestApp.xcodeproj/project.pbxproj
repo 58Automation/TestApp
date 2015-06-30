@@ -185,7 +185,6 @@
 				3647AE0A15CA0082006F70D6 /* Sources */,
 				3647AE0B15CA0082006F70D6 /* Frameworks */,
 				3647AE0C15CA0082006F70D6 /* Resources */,
-				0E519C321B159E3C00101FE1 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -254,22 +253,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		0E519C321B159E3C00101FE1 /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = CodeCoverage4iOS/exportenv.sh;
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		0EF43A801B39628600B77DFB /* Sources */ = {
